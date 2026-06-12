@@ -3,7 +3,7 @@
 A high-performance Python automation tool designed to extract structured market data from e-commerce platforms. This project demonstrates proficiency in web scraping, data cleaning with Pandas, and ethical scraping practices.
 
 ## Problem Solved
-Manual market research is slow and prone to human error. This tool automates the collection of product names, pricing, and availability, transforming hours of manual work into a 5-second automated process. Reduced manual data collection effort by ~4-5 hours/week
+Manual market research is slow and prone to human error. This tool automates the collection of product names, pricing, and availability, transforming hours of manual work into a 5-second automated process. Reduced manual data collection effort by 4-5 hours/week
 
 ## Tech Stack
 * **Language:** Python 3.x
